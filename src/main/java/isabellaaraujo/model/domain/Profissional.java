@@ -1,4 +1,4 @@
-package isabellaraujo.model.domain;
+package isabellaaraujo.model.domain;
 
 import java.util.HashMap;
 import java.util.Map;

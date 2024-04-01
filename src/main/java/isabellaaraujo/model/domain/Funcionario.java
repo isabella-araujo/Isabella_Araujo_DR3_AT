@@ -1,4 +1,4 @@
-package isabellaraujo.model.domain;
+package isabellaaraujo.model.domain;
 
 public class Funcionario extends Usuario{
 	private String cargo;

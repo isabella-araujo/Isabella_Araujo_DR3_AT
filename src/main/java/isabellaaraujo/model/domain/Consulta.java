@@ -1,4 +1,4 @@
-package isabellaraujo.model.domain;
+package isabellaaraujo.model.domain;
 
 public class Consulta {
 	private Integer id;
