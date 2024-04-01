@@ -1,4 +1,4 @@
-package isabelaaraujo;
+package isabellaaraujo;
 
 import isabellaaraujo.controller.ConsultaController;
 import isabellaaraujo.controller.FuncionarioController;
